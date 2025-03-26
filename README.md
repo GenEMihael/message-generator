@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a simple message generator. It takes 3 sentence stems, 3 numbers, and 3 single words or phrases and outputs a random combination of the three to create a random message every time the code is run. 
+This is a simple message generator. It takes 3 sentence stems, 3 numbers, and 3 single words or phrases, and outputs a random combination of the three to create a random message every time the code is run. 
 
 ## Methodology
 
